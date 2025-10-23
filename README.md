@@ -201,6 +201,6 @@ This project is private and proprietary to Microburbs.
 
 ## 📸 Screenshot
 
-![Microburbs Development Explorer Screenshot](./screenshot.png)
+[Microburbs Development Explorer Screenshot](./screenshot/screen.png)
 
 *The Microburbs Development Explorer interface showing property search functionality and data visualization*
