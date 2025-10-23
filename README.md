@@ -172,18 +172,8 @@ The build outputs to the `dist/` directory and includes:
 - Minified CSS
 - Static assets
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Make your changes
-4. Run linting: `npm run lint`
-5. Test the build: `npm run build`
-6. Commit your changes: `git commit -m 'Add feature'`
-7. Push to the branch: `git push origin feature-name`
-8. Submit a pull request
-
-## 📄 License
+## License
 
 This project is private and proprietary to Microburbs.
 
@@ -199,7 +189,7 @@ This project is private and proprietary to Microburbs.
 
 **Note**: For development and testing, use the Demo mode to explore features without requiring API access. The live search functionality requires access to the Microburbs API infrastructure.
 
-## 📸 Screenshot
+## Screenshot
 
 [Microburbs Development Explorer Screenshot](./screenshot/screen.png)
 
